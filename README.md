@@ -1,1 +1,3 @@
-# Project1
+- This repository contains data on GitHub users based in Barcelona with over 100 followers.
+- The data includes user details and their public repositories.
+- It provides insights into the GitHub community in this vibrant city.
